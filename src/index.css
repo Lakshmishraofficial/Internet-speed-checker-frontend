@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Georama:wght@500&display=swap');
+
+body {
+  background-color: white;
+    color: #000000;
+    font-family: Helvetica, arial, sans-serif;
+  margin: 0;
+  font-family: georama;
+  overflow: hidden;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+    color: #000000 !important;
+  text-decoration: none;
+}
+
+:root{
+
+  --theme: #020313;
+  --orange-theme: #FF4848;
+  --lighter-theme: #4A5380;
+  --white: #ffffff;
+  --light-text-color: #DCDBDE;
+  --lighter-text-color: #EFF0F3;
+  --blue: #030512;
+  --black: #000;
+  --light-grey: #8A8AA4;
+  --dark-grey: #706C82; 
+  --darker-grey: #34383c;
+  --grey: #9A9A9A;
+  --light-blue: #A8B9BD;
+  --lighter-blue: #F2F8FF;
+  --purple: #653FB4;
+  --skyblue:#EEF5FF;
+  --dark-purple: #01103B;
+  --dark-blue: #01062E;
+  --yellow: #F9CD45;
+  --light-pink: #F9248E;
+  --turquoise: #17BDC0;
+  --light-theme: #5dfdfe;
+  --dark-turquoise: #0F3F62;
+  --green: #2FC201;
+  --bordeaux: #994446;
+  --red: #FF4747;
+  --dark-blue: #1C1F4C;
+  --primary-shadow: rgba(68,96,170,.2);
+  --primary-weak-shadow: rgba(68,96,170,.07);
+
+  --padding-xs: 1vh 0.5vw;
+  --padding-sm: 1vh 2vw;
+  --padding-md: 2vh 3vw;
+  --padding-lg: 2vh 6vw;
+  
+  --font-size-xxxs: 0.5vw;
+  --font-size-xxs: 0.8vw;
+  --font-size-xs: 1.2vw;
+  --font-size-sm: 1.5vw;
+  --font-size-md: 2vw;
+  --font-size-lg: 2.5vw;
+
+  --width-xxs: 0.8vw;
+  --width-xs: 1vw;
+  --width-sm: 3vw;
+  --width-md: 5vw;
+  --width-lg: 8vw;
+
+  --height-xxs: 0.9vh;
+  --height-xs: 1vh;
+  --height-sm: 3vh;
+  --height-md: 5vh;
+  --height-lg: 8vh;
+}
